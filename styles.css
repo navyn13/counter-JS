@@ -1,0 +1,23 @@
+.heading{
+    font-size: 3rem;
+    font-family: 'Poppins', sans-serif;
+}
+.time{
+    font-family: 'Poppins', sans-serif;
+    font-size: 4rem;
+}
+.btn{
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.1rem;
+    width: 100px;
+    height: 30px;
+    background-color: white;
+    border-radius: 5px;
+}
+.container{
+    text-align: center;
+    width: auto;
+    margin-top: 200px; 
+    margin-left: auto;
+    margin-right: auto;
+}
